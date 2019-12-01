@@ -156,16 +156,23 @@ class Student(models.Model):
 
 ---
 
-##Resources
+## Resources
 [Download Python](https://www.python.org/downloads/ "Download Python")
+
 [Sqlite database open online](https://sqliteonline.com/ "Sqlite database open online")
 
 **For more question you can ask here**
 
 [My Website](https://www.sourabhsomani.com/ "My Website")
+
 [sourabh_somani2010@hotmail.com](mailto:sourabh_somani2010@hotmail.com?Subject=Hello%20Sourabh "sourabh_somani2010@hotmail.com")
+
 [Twitter](https://twitter.com/sourabh_somani "Twitter")
+
 [Linkedin](https://www.linkedin.com/in/sourabhsomani/ "Linkedin")
+
 [Instagram](https://www.instagram.com/sourabhsomani8/ "Instagram")
+
 [Facebook](https://www.facebook.com/hackersourabh "Facebook")
 
+Thank You :)
