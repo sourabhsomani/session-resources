@@ -1,4 +1,4 @@
-# Python Django Session at Microsoft Hyderabad
+# Python Django Session at Microsoft Hyderabad...
 
 Follow following steps
 1. First of all create a folder.
